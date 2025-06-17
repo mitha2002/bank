@@ -1,1 +1,2 @@
-mitha salary 250000
+salary=int(input("Enter your salary : "))
+print(salary)
